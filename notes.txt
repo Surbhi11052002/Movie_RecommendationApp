@@ -1,0 +1,33 @@
+ REACT DOM
+- we only call it once in our entire application
+- it is used to render our components and our entire 
+  application into the real dom(into div with an id of root)
+-this is how we   are accessing the basic dom .
+
+-there is a rule that react has if you want to render two differwnt elements,one next to another 
+   you need to wrap them in a so called react fragment.
+
+
+COMPONENTS
+Components in React basically return a piece of JSX code that tells what
+ should be rendered on the screen.
+
+PROPS
+-Props is short for properties and they are used to pass data between React components. React’s data
+   flow between components is uni-directional (from parent to child only).
+
+
+REACT STATE
+-The state is an updatable structure that is used to contain data or information about the component. The state in a component can change over time. The change in state over time can
+   happen as a response to user action or system event.
+   A component with the state is known as stateful components.
+
+HOOK
+-whenever you call something as a function and it starts with use 
+  it is a hook.
+-
+
+
+
+PROJECT 
+we have to export every single component so that we can use it somewhere else.
